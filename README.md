@@ -1,4 +1,4 @@
-![MarineGEO circle logo](https://media.licdn.com/dms/image/D4D16AQFgCGJCai_8DA/profile-displaybackgroundimage-shrink_350_1400/0/1680346211510?e=1688601600&v=beta&t=3WjxYDlKBb-EcjhktXjgCtRxjLOhWfZLPWHM_skKlD0")
+![MarineGEO circle logo](/header.jpeg")
 
 ## EXPERIENCE
 
