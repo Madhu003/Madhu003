@@ -4,11 +4,6 @@ To associate with an organization where I can utilize my skills and gain further
 
 ## EXPERIENCE
 
-### Promena, Bangalore - Associate Staff Engineer
-April 2023 - Present
-
-Working as a MERN Stack Developer mostly on JavaScript-based technologies.
-
 ### Nagarro, Jaipur - Associate Staff Engineer
 Sept 2022 - Feb 2023
 
