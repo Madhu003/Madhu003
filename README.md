@@ -1,4 +1,4 @@
-![MarineGEO circle logo](/header.jpeg")
+![MarineGEO circle logo](/1680346211510.jpeg")
 
 ## EXPERIENCE
 
