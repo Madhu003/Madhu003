@@ -1,6 +1,4 @@
-# Madhu Soodan
-
-To associate with an organization where I can utilize my skills and gain further experience, meanwhile enhancing the company’s productivity and reputation.
+![MarineGEO circle logo](https://media.licdn.com/dms/image/D4D16AQFgCGJCai_8DA/profile-displaybackgroundimage-shrink_350_1400/0/1680346211510?e=1688601600&v=beta&t=3WjxYDlKBb-EcjhktXjgCtRxjLOhWfZLPWHM_skKlD0")
 
 ## EXPERIENCE
 
