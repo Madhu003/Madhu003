@@ -66,7 +66,7 @@ Done in Computer Science & Engineering with 70 %.
 ## PROJECTS
 
 ### Project #1 • E-Commerce For Customized Door
-Project Duration: September 2021 to Present
+Project Duration: September 2022 to February 2023
 
 Technologies Used: ReactJS, Magento & AEM
 
