@@ -7,13 +7,8 @@ Sept 2022 - Feb 2023
 
 Working as a MERN Stack Developer mostly on JavaScript-based technologies.
 
-### EPAM, Gurgaon - Sr. Software Engineer
-Jun 2022 - Sept, 2022
-
-Working as a MEAN and MERN Stack Developer mostly on JavaScript-based technologies.
-
 ### Impact Big Data Analysis, Bangalore - Sr. Software Engineer
-Apr 2021 - Jun 2022
+Apr 2021 - Jul 2022
 
 Worked As a MERN Stack Developer mostly on JavaScript-based technologies.
 
