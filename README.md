@@ -1,4 +1,3 @@
-![MarineGEO circle logo](https://media.licdn.com/dms/image/D4D16AQFgCGJCai_8DA/profile-displaybackgroundimage-shrink_350_1400/0/1680346211510?e=1697068800&v=beta&t=sKSVL4BeCfhqq7lsZ5M4Zu8YJHWf0htBkA_ustHLPA
 Senior React Developer | 8+ years experience | Scalable solutions for complex business challenges  
 Specialized in React.js, Redux, TypeScript, and data-driven UI architecture.
 
